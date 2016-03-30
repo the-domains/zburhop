@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[zburhop]]></title>
         <description><![CDATA[zburhop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zburhop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 08:35:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 08:42:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zburhop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b6b56d-e00d-4794-abdb-559f7b9a23b1.jpg">]]></description>
-            <link>undefinedf8e228d5-1346-48ce-958e-217839587bc0/index.html</link>
+            <link>https://thegrid.ai/zburhop/f8e228d5-1346-48ce-958e-217839587bc0/index.html</link>
             <guid isPermaLink="false">f8e228d5-1346-48ce-958e-217839587bc0</guid>
-            <pubDate>Wed, 30 Mar 2016 08:34:49 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 08:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
