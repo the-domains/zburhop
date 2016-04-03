@@ -1,6 +1,6 @@
 name: zburhop
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.89483
 typography_spectrum: 0.24958
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010a31'
-    - '#ffffdb'
-    - '#ff00bc'
-    - '#4f4e5c'
-    - '#df669f'
+    - '#010206'
+    - '#233251'
+    - '#93a5d7'
+    - '#ffffff'
+    - '#008aff'
   brandStrength: 0.5
   lightness: 0.5902079043444246
   saturation: 0.625
